@@ -12,5 +12,5 @@ server:
 #   application:
 #     name: product-service
 
-env: test2018
+env: test
 branch: master
